@@ -1,5 +1,5 @@
-Author ** Apoorv yadav **
-BCA student   Aspiring AI & python developer 
+Author (**Apoorv yadav**)
+BCA student=Aspiring AI & Python developer 
 github   = https://github.com/cu25250160
 linkdin  = https://www.linkedin.com/in/apoorv-yadav-082b71381?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
